@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-    <StructureAddress>FE44D0</StructureAddress>
-    <ZoomCurrent>F8</ZoomCurrent>
-    <ZoomMax>100</ZoomMax>
-    <FovCurrent>104</FovCurrent>
-    <FovMax>10C</FovMax>
+    <StructureAddress>11ED910</StructureAddress>
+    <ZoomCurrent>108</ZoomCurrent>
+    <ZoomMax>110</ZoomMax>
+    <FovCurrent>114</FovCurrent>
+    <FovMax>11C</FovMax>
   </DX9>
   <DX11>
     <StructureAddress>18F70A0</StructureAddress>
